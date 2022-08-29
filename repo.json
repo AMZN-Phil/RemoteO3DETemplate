@@ -1,0 +1,11 @@
+{
+    "repo_name":"RemoteO3DETemplate GitHub",
+    "origin":"AMZN-Phil",
+    "repo_uri": "https://github.com/AMZN-Phil/RemoteO3DETemplate.git",
+    "summary": "Repository for testing remote template.",
+    "additional_info": "",
+    "projects": [
+        "https://github.com/AMZN-Phil/RemoteO3DETemplate.git"
+    ]
+
+}
