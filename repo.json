@@ -4,7 +4,7 @@
     "repo_uri": "https://github.com/AMZN-Phil/RemoteO3DETemplate.git",
     "summary": "Repository for testing remote template.",
     "additional_info": "",
-    "projects": [
+    "templates": [
         "https://github.com/AMZN-Phil/RemoteO3DETemplate.git"
     ]
 
